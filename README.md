@@ -15,9 +15,3 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
-## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide=shaderlab,html&theme=default)](https://github.com/yourusername/github-readme-stats)
-
-## Pablo's GitHub Stats
-[![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)](https://github.com/yourusername/github-readme-stats)
