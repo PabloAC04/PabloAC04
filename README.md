@@ -1,6 +1,6 @@
 # Welcome 👋, I'm Pablo
 
-  I’m currently studying 3<sup>rd</sup> course of Computer Engineering
+  I’m currently studying 4<sup>rd</sup> course of Computer Engineering
 
 ## Contact with me:
 
